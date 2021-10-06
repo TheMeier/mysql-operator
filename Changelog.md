@@ -9,6 +9,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Added
 ### Changed
 ### Removed
+ * Removed support for Helm 2
 ### Fixed
 
 ## [0.5.0] - 2021-10-06
